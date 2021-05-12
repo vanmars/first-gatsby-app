@@ -2,6 +2,7 @@
 title: The dojo Coffee House
 stack: HTML & CSS
 slug: the dojo-coffee-house
+date: 2021-01-03T00:00:00+00
 ---
 
 **Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Duis ultrices, nibh a egestas convallis, dui ipsum tristique massa, et blandit est augue at justo. Suspendisse potenti. Donec auctor turpis eros, sit amet efficitur felis tempor ac. Nulla magna erat, pellentesque id aliquam quis, viverra id lectus. Donec sit amet massa orci. Ut vel ligula ac nunc vehicula blandit nec nec eros. Nunc lobortis ligula in rhoncus aliquam. Aliquam tristique at mi ac ultricies. Aenean vehicula iaculis neque, vitae condimentum ante vehicula sit amet.

@@ -19,6 +19,7 @@ module.exports = {
   siteMetadata: {
     title: 'Programming Princess',
     description: 'web dev portfolio',
-    copyright: 'This website is copyright 2021 Programming Princess'
+    copyright: 'This website is copyright 2021 Programming Princess',
+    contact: 'me@theprogrammingprincess.com'
   }
 }
